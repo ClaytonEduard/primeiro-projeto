@@ -1,0 +1,12 @@
+header nav#navbar .nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+header nav#navbar .nav-brand h1 {
+    font-family: "Grenze Gotisch", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+}
