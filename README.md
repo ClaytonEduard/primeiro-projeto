@@ -1,3 +1,10 @@
+# Projeto de Estudo Pratico para conceitos de render e state legados
+![image](https://github.com/ClaytonEduard/primeiro-projeto/assets/11823640/e54623a2-55a6-40fa-8ef2-8712351a5032)
+
+
+## Para ver como funciona crie uma clone e siga os passos a baixo!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
